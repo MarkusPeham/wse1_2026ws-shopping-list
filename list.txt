@@ -2,4 +2,6 @@ aepfel
 birnen
 bier
 leberkaesesemmel
-honig
+chips
+kaese
+wurst
