@@ -1,7 +1,8 @@
-semmeln
+semmel
 aepfel
 orangen
 toast
+baguette
 birnen
 bananen
 kekse
