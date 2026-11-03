@@ -1,6 +1,7 @@
 semmeln
 aepfel
 orangen
+baguette
 birnen
 bananen
 kekse
