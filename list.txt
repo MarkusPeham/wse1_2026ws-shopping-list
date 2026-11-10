@@ -5,6 +5,7 @@ toast
 baguette
 birnen
 bananen
+eis
 kekse
 bier
 leberkaesesemmel
